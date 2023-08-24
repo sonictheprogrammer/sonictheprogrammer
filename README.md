@@ -1,3 +1,3 @@
 # Hi! 😀
 
-I'm a programmer,
+I'm a programmer 👾,  and I use Linux 🐧. 
