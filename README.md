@@ -8,4 +8,4 @@ I am working on **Kod**, and **Pack-a-Punch (Future Project)**.
 
 # What's New? 🤓
 
-**Kod Version v.1.2.5** is coming Dec 25!
+**Kod Version v.1.2.5** is out!
